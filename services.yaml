@@ -1,0 +1,170 @@
+- Active Services:
+    - Blog:
+        href: http://blog.thanh0x.com/
+        description: WordPress blog
+        icon: sh-wordpress
+
+    - Udemy Coupons Server:
+        href: https://coupons.thanh0x.com/
+        description: Udemy coupon service
+        icon: si-udemy  # No sh-udemy available
+
+    - Archivebox:
+        href: https://archive.thanh0x.com/public/
+        description: Archiving service
+        icon: mdi-archive  # No sh-archive available
+
+    - Wallabag:
+        href: https://wallabag.thanh0x.com/
+        description: Bookmarking service
+        icon: sh-wallabag
+
+- Internal Services:
+    - Public Dev Test:
+        href: https://public.thanh0x.com/
+        description: Development test site
+        icon: mdi-code-tags  # No sh-code-tags available
+
+    - Nextcloud:
+        href: https://cloud.thanh0x.com/
+        description: Cloud storage
+        icon: sh-nextcloud
+
+    - Gitea:
+        href: https://gitea.thanh0x.com/huythanh0x
+        description: Git hosting
+        icon: sh-gitea
+
+- Private Services:
+    - Cloudflare:
+        description: Private Service (no public access)
+        icon: sh-cloudflare
+
+    - NginxProxy Manager:
+        description: Private Service (no public access)
+        icon: sh-nginx
+
+    - Tailscale VPN:
+        description: Private Service (no public access)
+        icon: sh-tailscale
+
+# Deactivated services grouped at the bottom for informational purposes only, with no accessibility
+- Inactive Services:
+    #<!-- initiallyCollapsed: true -->
+    - Trilium:
+        description: Switched to Notion Student Plan
+        icon: sh-notion
+
+    - XBackbone:
+        description: Switched to GitHub public repo for screenshot storage
+        icon: mdi-folder  # No sh-folder available
+
+    - Ghost Blog:
+        description: Switched to self-hosted WordPress
+        icon: sh-ghost
+
+    - Linkwarden:
+        description: Switched to self-hosted Wallabag
+        icon: mdi-link-variant  # No sh-linkwarden available
+
+    - Traggo:
+        description: Switched to offline app Super-Productivity
+        icon: mdi-timer  # No sh-timer available
+
+    - Udemy Coupons Test Server:
+        description: Skipped dev env, just push to prod
+        icon: si-udemy  # No sh-udemy available
+
+    - DBO Game Server:
+        description: Under maintenance
+        icon: mdi-gamepad-variant  # No sh-gamepad available
+
+    - Kasm:
+        description: Working from home so won’t need it anymore
+        icon: mdi-desktop-mac  # No sh-kasm available
+
+    - BookStack:
+        description: Switched to Notion Student Plan
+        icon: sh-bookstack
+
+    - VSCode:
+        description: Working from home so won’t need it anymore
+        icon: mdi-microsoft-visual-studio-code  # No sh-vscode available
+
+    - AppFlowy:
+        description: Switched to Notion Student Plan
+        icon: sh-appflowy
+
+- Quick Access:
+    - Notion:
+        href: https://notion.so/
+        icon: sh-notion
+
+    - Chatgpt:
+        href: https://chatgpt.com/
+        icon: si-openai  # No sh-chatgpt available
+
+    - 1 month plan:
+        href: https://www.notion.so/Plan-for-the-next-30-days-1116b211018a80c9900bcc1cfc9d81a7?pvs=21
+        icon: mdi-calendar  # No sh-calendar available
+
+- English:
+    - Engoo news:
+        href: https://engoo.com/app/daily-news
+        icon: mdi-newspaper  # No sh-newspaper available
+
+    - Study4:
+        href: https://study4.com/tests/
+        icon: mdi-school  # No sh-school available
+
+    - Native camp:
+        href: http://nativecamp.net/
+        icon: mdi-campfire  # No sh-campfire available
+
+- Reading:
+    - Wallabag:
+        href: https://wallabag.thanh0x.com/
+        icon: sh-wallabag
+
+    - Medium:
+        href: https://medium.com/
+        icon: si-medium  # No sh-medium available
+
+    - Github starred list:
+        href: https://github.com/Huythanh0x?tab=stars
+        icon: mdi-github  # No sh-github available
+
+- Static Websites:
+    - Rerevrse Engineering repos:
+        href: https://archive.thanh0x.com/archive/1727626884.486824/public.thanh0x.com/preview_as_web.html
+        icon: mdi-github  # No sh-github available
+
+    - Public screenshots preview:
+        href: https://archive.thanh0x.com/archive/1727775415.705289/public.thanh0x.com/index.html
+        icon: mdi-image  # No sh-image available
+
+- English Flashcards:    
+    - Oxford Vocab 3k part 1:
+        href: https://archive.thanh0x.com/archive/1715527882.646478/192.168.1.9+8000/output_html/_3k_basic_part_1.html
+        icon: mdi-book  # No sh-book available
+
+    - Oxford Vocab 3k part 2:
+        href: https://archive.thanh0x.com/archive/1715527882.646668/192.168.1.9+8000/output_html/_3k_basic_part_2.html
+        icon: mdi-book  # No sh-book available
+
+    - Oxford Vocab 2k advance:
+        href: https://archive.thanh0x.com/archive/1715527882.646814/192.168.1.9+8000/output_html/_2k_advance_full_part.html
+        icon: mdi-book  # No sh-book available
+
+- Java Collections:
+    - English Java games:
+        href: https://archive.thanh0x.com/archive/1711818519.255997/192.168.1.7+8000/GoodEnglishJavaGame.html
+        icon: mdi-gamepad-variant  # No sh-gamepad available
+
+    - Chinese Java games:
+        href: https://archive.thanh0x.com/archive/1711807483.84233/192.168.1.7+8000/Image%20Gallery.html
+        icon: mdi-gamepad-variant  # No sh-gamepad available
+
+    - 8000+ Java games:
+        href: https://archive.thanh0x.com/archive/1711978594.820561/192.168.1.4+8000/All%20Clean%20Jar%20Games.html
+        icon: mdi-gamepad-variant  # No sh-gamepad available

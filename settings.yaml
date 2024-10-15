@@ -1,0 +1,40 @@
+title: Thanh0x's homepage
+
+background:
+  image: https://img.goodfon.com/wallpaper/big/b/12/tree-hill-silhouette-man-starry-sky-dark-purple-black-wallpa.webp
+  blur: sm # sm, "", md, xl... see https://tailwindcss.com/docs/backdrop-blur
+  saturate: 50 # 0, 50, 100... see https://tailwindcss.com/docs/backdrop-saturate
+  brightness: 50 # 0, 50, 75... see https://tailwindcss.com/docs/backdrop-brightness
+  opacity: 50 # 0-100
+
+favicon: https://secure.gravatar.com/avatar/704d5c38ba7b50b71bb857e08c7a93ff?d=identicon&s=870
+theme: dark # or light
+
+layout:
+  Active Services:
+  Internal Services:
+  Private Services:
+    style: column
+  Inactive Services:
+    style: row
+    columns: 4
+    initiallyCollapsed: true
+  
+  Static Websites:
+    style: row
+    columns: 4
+  
+  Quick Access:
+    style: column
+  English:
+    style: column
+  Reading:
+    style: column
+  
+  English Flashcards:
+    initiallyCollapsed: true
+    style: row
+  Java Collections:
+    initiallyCollapsed: true
+    style: row
+
